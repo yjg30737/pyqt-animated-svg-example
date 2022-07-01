@@ -7,6 +7,9 @@ PyQt animated SVG example
 ## Setup
 `python -m pip install git+https://github.com/yjg30737/pyqt-animated-svg-example.git --upgrade`
 
+## Tutorial (how to make this by myself)
+<a href="https://yjg30737.github.io/posts/pyqt-how-to-show-animated-svg/">See the post</a>
+
 ## Example
 ```python
 import sys
